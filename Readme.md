@@ -6,5 +6,8 @@
 > - Duration of backoff periods
 > - Criteria for giving up
 > - Amount of jitter
-> 
+>
 > Feel free to make your own design choices about error handling and logging.
+
+### Guide
+For thoughts on approach and implementation, see `controller.js`
